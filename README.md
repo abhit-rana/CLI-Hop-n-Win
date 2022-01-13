@@ -1,2 +1,1 @@
-# CLI-Hop-n-Win
- this program was created for as an assignment for the Advanced Programming Course at IIITD[(https://www.iiitd.ac.in/)]
+this is a command line single-player game of Hop-n-Win where the objective is that the player get's 5 chances to land on carpet of tiles where s/he may get a soft toy everytime for his jump. after winning the player stores the toys he won in a bucket. the game ends as soon the player finishes his 5 hops.
